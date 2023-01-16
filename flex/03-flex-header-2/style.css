@@ -17,13 +17,13 @@ body {
   padding: 8px;
 }
 
-.left-side {
+.left {
   display: flex;
   align-items: center;
   gap: 16px;
 }
 
-.right-side {
+.right {
   display: flex;
   align-items: center;
   gap: 16px;
